@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-[Illustration](/images/something.png){: .align-right width="300px"}
-My research/work interests lie broadly in perception and robotics.
+[Illustration](/images/IMG-5076.jpg){: .align-right width="300px"}
+My primary interests lie broadly in computer vision and robotics. Currently I am actively looking for Data Science and ML Engineer positions in Europe!
 
-I recently completed master's thesis for my degree at TU Munich in Robotics & AI.
+I recently completed an M.Sc. in Robotics & AI from TU Munich. For my master's thesis, which I conducted at UC Berkeley, I researched generative models for simulation of ocean currents.
 
-The research of my thesis was about generative models for simulation of ocean currents and was conducted at UC Berkeley.
+Prior to this I received a M.Eng. from the University of Glasgow in Mechanical Engineering. For my thesis project, which I conducted at NTNU, I worked on computer vision assisted robotic welding for offshore platforms.
 
-Prior to this I received a masters degree from the University of Glasgow in Mechanical Engineering.
+In my freetime you will most likely find me spending time outdoors hiking or mountain biking.

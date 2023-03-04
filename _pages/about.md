@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Illustration](/images/IMG-5076.jpg){: .align-right width="300px"}
+![Illustration](/images/IMG-5076.jpg){: .align-right width="300px"}
 My primary interests lie broadly in computer vision and robotics. Currently I am actively looking for Data Science and ML Engineer positions in Europe!
 
 I recently completed an M.Sc. in Robotics & AI from TU Munich. For my master's thesis, which I conducted at UC Berkeley, I researched generative models for simulation of ocean currents.

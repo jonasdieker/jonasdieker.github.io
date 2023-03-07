@@ -18,6 +18,6 @@ Prior to this I received an M.Eng. from the University of Glasgow in Mechanical 
 In my freetime you will most likely find me outdoors hiking or mountain biking.
 
 
-## Selected Experience
+<!-- ## Selected Experience
 
-Graduate Research Assistant in Deep Learning for Autonomous Driving.
+Graduate Research Assistant in Deep Learning for Autonomous Driving. -->

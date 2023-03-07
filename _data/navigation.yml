@@ -3,6 +3,9 @@ main:
   - title: "CV"
     url: /files/Resume_Jonas_Dieker.pdf
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Portfolio"
     url: /portfolio/
 

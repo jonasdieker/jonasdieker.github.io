@@ -1,7 +1,7 @@
 ---
 title: "Generative Models for Sparse Real Data"
 excerpt: "Master's Thesis at UC Berkeley CIFAR10 images.<br/><img width=500px src='/images/system_sketch.png'>"
-collection: portfolio
+collection: project
 ---
 
 This work was part of my masters degree in Robotics and AI at TU Munich, conducted at UC Berkeley.

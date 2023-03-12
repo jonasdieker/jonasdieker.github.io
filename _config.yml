@@ -236,6 +236,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _projects
+  - scrope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""

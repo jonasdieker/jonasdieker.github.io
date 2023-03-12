@@ -1,7 +1,7 @@
 ---
 title: "Generative Models for Simulation of Realistic Ocean Currents"
 excerpt: "Master's Thesis at UC Berkeley in Environmental Signal Modelling from Sparse Ground Truths.
-         <br/><img width=500px src='/images/system_sketch.png'>"
+         <br/><img width=800px src='/images/system_sketch.png'>"
 collection: projects
 ---
 
@@ -11,7 +11,7 @@ This work was part of my masters degree in Robotics and AI at TU Munich, conduct
 
 But how can realistic ocean currents be simulated? In this thesis generative methods to model the dense spatio-temporal distribution of forecast current errors, grounded by sparse measurements are proposed. Synthetic errors sampled from this error distribution can then be added to coarse forecasts to produce possible realizations of the true currents which enable realistic simulations.
 
-<br/><img width=500px src='/images/system_sketch.png'>
+<br/><img width=800px src='/images/system_sketch.png'>
 
 First the empirical forecast error distribution derived from sparse measurements of drifter buoys are analyzed. This analysis and the physical processes governing fluid flows inform the metrics and criteria which are used to measure the performance of the generative methods. Then the Tuned Simplex Noise (TSN) method, which leverages the spatio-temporal correlations of the measured current errors to produce dense spatio-temporally smooth synthetic error fields, is introduced. Experimental analysis suggests that TSN performs well in matching the statistics and characteristics of the empirical forecast errors. However, it was found that in regions where the forecast error is high compared to the forecasted current magnitude, the synthetic errors from TSN can dominate the forecasted currents and change the current structure when added together to produce realistic true currents. This happens because TSN does not have knowledge of the forecast.
 

@@ -1,6 +1,6 @@
 ---
 title: "3D Reconstruction from Scratch"
-excerpt: "Classical computer vision approach to detect key-points in a pair of images; establish correspondences between key-points in both images; compute the essential matrix and finally recover 3D coordinates of key-points.<br/><img src='/images/key_point_matching.png'>"
+excerpt: "Classical computer vision approach to detect key-points in a pair of images; establish correspondences between key-points in both images; compute the essential matrix and finally recover 3D coordinates of key-points.<br/><img width=800px src='/images/key_point_matching.png'>"
 collection: projects
 ---
 

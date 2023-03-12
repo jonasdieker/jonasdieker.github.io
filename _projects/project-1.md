@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning Web App"
-excerpt: "A simple web app based on FastAPI and Streamlit which can classify images.<br/><img src='/images/500x300.png'>"
+excerpt: "A ML simple web app for classifying images, built with FastAPI and Streamlit.<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 

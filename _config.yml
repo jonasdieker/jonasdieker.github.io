@@ -237,7 +237,7 @@ defaults:
       share: true
       comment: true
   # _projects
-  - scrope:
+  - scope:
       path: ""
       type: projects
     values:

@@ -6,9 +6,9 @@ collection: projects
 
 An exercise to refresh my mind on theory from multi-view geometry and apply that knowledge. Main reference literature for this project was [1].
 
-# Depth Reconstruction from Scratch
-
 The first goal of this project is to provide a modular way to the 3D reconstruction problem. Any of the intermediate steps listed below can be replaced by different algorithms of the same task. The second goal is to write everything from scratch, i.e. using numpy only.
+
+This pipeline can be extended for further downsteam tasks such as visual odometry via the already included state estimation and also for SLAM.
 
 ## Feature Matching
 

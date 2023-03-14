@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ![Illustration](/images/IMG-5076.jpg){: .align-right width="300px"}
-My primary interests lie broadly in computer vision and robotics. Currently I am looking for Data Science and ML Engineer positions in Europe. If you think we might be a good fit feel free to reach out to me!
+My primary professional interests lie broadly in computer vision and robotics. I have previous experience in generative models, computer vision and robotics (autonomous driving and industrial automation). Currently I am looking for full-time challenges in Data Science and Machine Learning in Europe. If you think we might be a good fit feel free to reach out to me!
 
 I recently completed an M.Sc. in Robotics & AI from TU Munich. For my master's thesis, which I conducted at UC Berkeley, I researched learning generative models from sparse data.
 

@@ -9,17 +9,12 @@ redirect_from:
 ---
 
 ![Illustration](/images/IMG-5076.jpg){: .align-right width="300px"}
-I was born and raised between Germany and the UK and have also spent time in Canada, Norway and the US. In my freetime you will most likely find me outdoors hiking or mountain biking.
+I grew up between Germany and the UK and have also lived in Canada, Norway, and the United States. In my freetime you will most likely find me outdoors hiking, running or cycling.
 
-My primary professional interests lie broadly in computer vision and robotics. I have previous experience in generative models, computer vision and robotics (autonomous driving and industrial automation).
+My professional expertise lies at the intersection of computer vision, deep learning and robotics, where I am driven by challenges with a positive impact on society.
 
-Currently I am a Data Scientist working on deep learning LiDAR-Image sensor fusion approaches for autonomous systems.
+Over the past 5 years, I have addressed challenges in climate tech, mobile robotics and health tech, with my work actively running on dozens of systems in real-world environments.
 
-Before this I completed an M.Sc. in Robotics & AI from TU Munich. For my master's thesis, which I conducted at UC Berkeley, I researched learning generative models from sparse data.
+Currently, I am developing deep learning methods to build a medical digital twin of the human patient.
 
-Prior to this I received an M.Eng. from the University of Glasgow in Mechanical Engineering. For my thesis project, which I conducted at NTNU, I worked on computer vision assisted robotic welding for offshore platforms.
-
-
-<!-- ## Selected Experience
-
-Graduate Research Assistant in Deep Learning for Autonomous Driving. -->
+You can find more detail in my CV.
